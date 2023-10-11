@@ -1,0 +1,10 @@
+.back-button:hover {
+  color: white !important;
+}
+.back-button {
+  display: flex;
+  justify-content: center;
+}
+.back-icon {
+  margin-top: 2px;
+}
